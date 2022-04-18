@@ -1,0 +1,21 @@
+{
+  "name": "electron-demo",
+  "version": "1.0.0",
+  "description": "Electron demo app for a school presentation",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Simon Schiller",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.4.8"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.4",
+    "nedb": "^1.8.0",
+    "postcss": "^8.4.12",
+    "postcss-loader": "^6.2.1",
+    "tailwindcss": "2.2.19"
+  }
+}
